@@ -30,3 +30,14 @@ My own cloud storage
     - Cancel the sharing (making the link unavailable is one possible approach)
     - Save the shared file in my XDrive
     - Download the shared file directly
+
+## Environment config:
+    - JDK 1.8
+    - Maven 3.6.3
+    - Springboot 2.1.9.RELEASE
+    - Swagger2 2.8.0
+    - MyBatis-Plus 3.3.2
+    - Redis 6.2.6
+    - ZooKeeper 3.4.14
+    - MySQL 8.0
+    - RocketMQ 4.5.1
